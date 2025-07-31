@@ -1,0 +1,2 @@
+# sami
+project of django
